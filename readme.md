@@ -37,7 +37,7 @@ This is an educational email scraping tool built using Python, Flet, and other l
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
 
 ## Disclaimer
 
